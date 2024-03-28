@@ -1,2 +1,0 @@
-# aprendiendo-react
-Prueba aprendiendo
